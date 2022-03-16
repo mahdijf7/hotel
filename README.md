@@ -1,2 +1,2 @@
 # hotel
-practice sass and flex box in hotel project
+build responsive site and practice sass and flexbox  in hotel project
